@@ -47,6 +47,6 @@ To access the Report, use the following link: https://medium.com/@assayouti.opey
 
 For the Deployed Dashboard, use the following link:https://app.powerbi.com/groups/me/reports/976d2ce1-7e8d-4fcb-b940-ea605d5783fd/9f5e96c308507e49a392?experience=power-bi
 
-
+![alt text](image.png)
 AUTHOR
 Assayouti Zakariyah Opeyemi
