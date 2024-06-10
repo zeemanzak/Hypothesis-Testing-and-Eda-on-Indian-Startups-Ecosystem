@@ -1,9 +1,9 @@
 PROJECT TITLE
-
 Analyzing the india startup ecosystem
 
 PROJECT DESCRIPTION
-This dataset provides comprehensive information about the Indian startups ecosystem, including details on startup companies, their founders, funding stages, investors, Sectors,locations and more. The aim is to offer insights into the growth, trends, and key players within the Indian startup landscape.
+
+  This dataset provides comprehensive information about the Indian startups ecosystem, including details on startup companies, their founders, funding stages, investors, Sectors,locations and more. The aim is to offer insights into the growth, trends, and key players within the Indian startup landscape.
 
 DATA SOURCE
 open database
